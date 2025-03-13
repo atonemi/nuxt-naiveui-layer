@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-naiveui-layer",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "dev": "nuxi dev .playground",
+    "dev:prepare": "nuxt prepare .playground",
+    "build": "nuxt build .playground",
+    "generate": "nuxt generate .playground",
+    "preview": "nuxt preview .playground"
+  },
+  "devDependencies": {
+    "naive-ui": "^2.41.0",
+    "nuxt": "^3.16.0",
+    "typescript": "^5.8.2"
+  },
+  "packageManager": "pnpm@10.6.2"
+}
