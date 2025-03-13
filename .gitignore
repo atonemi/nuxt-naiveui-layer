@@ -1,15 +1,12 @@
 .DS_Store
-# Local History
 .history
-# VSCode
 .vscode/
-# JetBrains/WebStorm
 .idea/
 
-.playground/.nuxt
-.playground/dist
-.playground/.output
+.playground
 
 *.yaml
 
 node_modules
+
+tsconfig.json
